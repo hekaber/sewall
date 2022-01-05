@@ -29,3 +29,8 @@
   .bg-white .navbar-nav .active {
     color: #F97794 !important;
   }
+
+  #brainVid {
+      min-width: 100%;
+      min-height: 500px;
+  }

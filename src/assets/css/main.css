@@ -1,80 +1,4 @@
-/* ==========================================================================
-   1. IMPORT GOOGLE FONTS
-   ========================================================================== */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:500,700|Open+Sans");
-/* ==========================================================================
-   2. GENERAL
-   ========================================================================== */
-body {
-  font-family: 'Open Sans', sans-serif;
-  color: #546E7A;
-  font-size: 14px;
-  font-weight: 400;
-  background: #fff;
-  overflow-x: hidden;
-}
 
-html {
-  overflow-x: hidden;
-}
-
-p {
-  font-size: 14px;
-  color: #546E7A;
-  line-height: 26px;
-  font-family: 'Open Sans', sans-serif;
-  margin-bottom: 0;
-}
-
-a:hover, a:focus {
-  color: #F97794;
-}
-
-a {
-  color: #F97794;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-
-h1, h2, h3, h4, h5 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 40px;
-  font-weight: 700;
-  color: #263238;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-ul li {
-  list-style: none;
-}
-
-a:hover,
-a:focus {
-  text-decoration: none;
-  outline: none;
-}
-
-a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-
-a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
-  color: #fff;
-}
-
-.bg-transparent {
-  background: transparent !important;
-}
-
-.bg-defult {
-  background: #F97794 !important;
-}
 
 /* ==========================================================================
    2.1 Section Title
@@ -481,38 +405,6 @@ button:focus {
 .menu-button:hover {
   cursor: pointer;
   opacity: #eee;
-}
-
-.bg-white {
-  background-color: #fff !important;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.16), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
-  z-index: 999;
-  padding: 5px;
-}
-
-.bg-white .menu-button {
-  top: 0;
-}
-
-.bg-white .menu-button:hover {
-  cursor: pointer;
-  color: #F97794;
-}
-
-.bg-white .logo-menu a {
-  color: #F97794;
-}
-
-.bg-white .navbar-nav .nav-link {
-  color: #263238 !important;
-}
-
-.bg-white .navbar-nav .nav-link:hover {
-  color: #F97794 !important;
-}
-
-.bg-white .navbar-nav .active {
-  color: #F97794 !important;
 }
 
 .close-button {
