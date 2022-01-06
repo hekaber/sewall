@@ -33,7 +33,6 @@
             "scripts": [
               "src/scripts/js/bootstrap.min.js",
               "src/scripts/js/classie.js",
-              "src/scripts/js/color-switcher.js",
               "src/scripts/js/contact-form-script.js",
               "src/scripts/js/form-validator.min.js",
               "src/scripts/js/jquery-min.js",
