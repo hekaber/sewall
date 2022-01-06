@@ -7,13 +7,17 @@ import { HeaderComponent } from './components/header/header.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ServicesComponent } from './components/services/services.component';
+import { TeaserComponent } from './components/teaser/teaser.component';
+import { TeamComponent } from './components/team/team.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     CarouselComponent,
-    ServicesComponent
+    ServicesComponent,
+    TeaserComponent,
+    TeamComponent
   ],
   imports: [
     BrowserModule,
