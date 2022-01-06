@@ -30,3 +30,14 @@
 .bg-white .navbar-nav .active {
   color: #6B112D !important;
 }
+
+.logo_container {
+  position: relative;
+  width: 150px;
+  height: 20px;
+}
+
+.logo_container img {
+  position: absolute;
+  top: -10px;
+}

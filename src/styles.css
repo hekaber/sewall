@@ -2163,9 +2163,9 @@ textarea {
 }
 
 footer .footer-Content {
-  background-color: #ffffff;
+  background-color: #696969;
   padding: 60px 0;
-  color: #546E7A;
+  color: #FFFFFF;
 }
 
 .textwidget {
@@ -2187,7 +2187,7 @@ footer .menu li {
 }
 
 footer .menu li a {
-  color: #546E7A;
+  color: #FFFFFF;
 }
 
 footer .menu li a:hover {
@@ -2215,7 +2215,7 @@ footer .menu li a:hover {
 }
 
 .contact-footer li span a {
-  color: #546E7A;
+  color: #FFFFFF;
 }
 
 .contact-footer li span a:hover {

@@ -3,26 +3,13 @@
     min-height: 500px;
 }
 
-#logo_container {
-    position: relative;
-    background-image: url("../assets/img/logo.png");
-    background-repeat: no-repeat;
-    width: 150px;
-    height: 20px;
-}
-
-#logo_container img {
-    position: absolute;
-    top: -10px;
-}
-
 .video_teaser {
     position: relative;
     min-width: 100%;
     min-height: 961px;
 }
 
-.video_teaser video, 
+.video_teaser video,
 .video_teaser app-services {
     position: absolute;
 }
